@@ -1,11 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "Solidity"
+			"path": "Udacity/UdacityRepository"
 		},
 		{
-			"path": "Udacity"
+			"path": "DavisSolidity"
+		},
+		{
+			"path": "Udacity/JSIntro"
+		},
+		{
+			"path": "NodeIntro"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }

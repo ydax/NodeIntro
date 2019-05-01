@@ -1,0 +1,19 @@
+{
+  "name": "obs-project",
+  "version": "1.0.0",
+  "description": "Following Along with Fun Fun Function",
+  "main": "index.js",
+  "dependencies": {
+    "obs-websocket-js": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jasmine": "^3.4.0",
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Davis Jones",
+  "license": "ISC"
+}
