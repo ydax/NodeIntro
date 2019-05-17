@@ -1,0 +1,29 @@
+{
+  "name": "honeybee",
+  "version": "1.0.0",
+  "description": "Use the honeybees to help you communicate with your learning community!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdavisjones/honeybee.git"
+  },
+  "keywords": [
+    "gmail",
+    "apps-script"
+  ],
+  "author": "Davis Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdavisjones/honeybee/issues"
+  },
+  "homepage": "https://github.com/pdavisjones/honeybee#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "clasp": "^1.0.0",
+    "webpack": "^4.31.0"
+  }
+}
