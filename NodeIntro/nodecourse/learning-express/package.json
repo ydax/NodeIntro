@@ -11,7 +11,7 @@
   "author": "Davis Jones",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
